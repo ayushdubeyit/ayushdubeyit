@@ -6,8 +6,15 @@
 <img align="right" alt="coding" width="350"
 src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif">
 
-<h3 align="center">A Passionate Java Full Stack Developer</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&color=E6E6E6&center=true&vCenter=true&width=800&repeat=false&lines=A+Passionate+Java+Full+Stack+Developer" 
+  />
+</p>
 
+
+<img align="right" alt="coding" width="320"
+src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif">
 
 -  Passionate **Java Full Stack Developer**
 -  Working with **Spring Boot, React & Modern Backend Systems**
@@ -19,25 +26,42 @@ src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-
 
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=java,spring,nodejs,express,aws,redis,kafka,html,css,js,react,mysql,mongodb,docker,git,github&perline=9" 
-    height="40"
+    src="https://skillicons.dev/icons?i=java,spring,nodejs,express,aws,redis,kafka,html,css,js,react,mysql,mongodb,docker,git,github&perline=20" 
+    height="38"
   />
 </p>
 
 
 ⭐ Building scalable backend systems, one commit at a time.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to Reach me :</h3>
 
 <p align="left">
-  <a href="www.linkedin.com/in/ayush-dubey-21a601359" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ayushdubeyit@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  <a href="https://www.linkedin.com/in/ayush-dubey-21a601359/" target="_blank">
+    https://www.linkedin.com/in/ayush-dubey-21a601359/
   </a>
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  <a href="mailto:ayushdubeyit@gmail.com">
+   ayushdubeyit@gmail.com
+  </a>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=whatsapp" height="30"/>
+  <a href="https://wa.me/918840674239" target="_blank">
+    +918840674239
+  </a>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  <a href="https://instagram.com/ig.ayushhhh" target="_blank">
+    instagram.com/ig.ayushhhh
+  </a>
+</p>
+
+
 
 
 <!--
