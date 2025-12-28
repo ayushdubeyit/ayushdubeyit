@@ -3,8 +3,7 @@
 </p>
 
 
-<img align="right" alt="coding" width="350"
-src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif">
+
 
 <p align="center">
   <img 
@@ -12,9 +11,10 @@ src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-
   />
 </p>
 
-
 <img align="right" alt="coding" width="320"
-src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif">
+src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif" />
+
+<br/>
 
 -  Passionate **Java Full Stack Developer**
 -  Working with **Spring Boot, React & Modern Backend Systems**
@@ -32,30 +32,41 @@ src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-
 </p>
 
 
-⭐ Building scalable backend systems, one commit at a time.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=E6E6E6&center=true&vCenter=true&width=900&repeat=false&lines=Designing+scalable+backend+systems%2C+one+thoughtful+commit+at+a+time."
+    alt="typing svg"
+  />
+</p>
+
 
 <h3 align="left">How to Reach me :</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   <a href="https://www.linkedin.com/in/ayush-dubey-21a601359/" target="_blank">
     https://www.linkedin.com/in/ayush-dubey-21a601359/
   </a>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
   <a href="mailto:ayushdubeyit@gmail.com">
    ayushdubeyit@gmail.com
   </a>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=whatsapp" height="30"/>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+    height="28"
+    alt="WhatsApp"
+  />
   <a href="https://wa.me/918840674239" target="_blank">
-    +918840674239
+    +91 88406 74239
   </a>
 </p>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="28"/>
   <a href="https://instagram.com/ig.ayushhhh" target="_blank">
     instagram.com/ig.ayushhhh
   </a>
