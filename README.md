@@ -64,8 +64,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=instagram" height="28"/>
-  <a href="https://instagram.com/ig.ayushhhh" target="_blank">
-    instagram.com/ig.ayushhhh
+  <a href="https://instagram.com/ig.ayushhhh_" target="_blank">
+    instagram.com/ig.ayushhhh_
   </a>
 </p>
 
