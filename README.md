@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayush;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Always+Learning+%26+Building" />
 </p>
@@ -8,14 +9,6 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&color=E6E6E6&center=true&vCenter=true&width=800&repeat=false&lines=A+Passionate+Java+Full+Stack+Developer" 
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284091-4e9a9e7d-7b6f-4b5b-bf23-8d2c33a64a39.png"
-    width="350"
-    alt="coding illustration"
   />
 </p>
 
