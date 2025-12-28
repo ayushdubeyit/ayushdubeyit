@@ -11,10 +11,14 @@
   />
 </p>
 
-<img align="right" alt="coding" width="320"
-src="https://user-images.githubusercontent.com/74038190/212284085-2c2c1d77-9e41-47b6-9a4d-8a7d2a4a2d61.gif" />
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284091-4e9a9e7d-7b6f-4b5b-bf23-8d2c33a64a39.png"
+    width="350"
+    alt="coding illustration"
+  />
+</p>
 
-<br/>
 
 -  Passionate **Java Full Stack Developer**
 -  Working with **Spring Boot, React & Modern Backend Systems**
